@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.suo
+
+.vs/
+FUT Bot/bin/
+FUT Bot/obj/
+**/packages/*
